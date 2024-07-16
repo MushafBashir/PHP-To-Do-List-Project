@@ -1,0 +1,7 @@
+Features to include in the project:
+1. Work (Input bar)
+2. Table ==> Four columns (Serial number, Task, Date and Time, Update / Delete)
+3. Header
+4. Search Feature
+
+Note: Update not open in new page but in pop up form.
